@@ -1,0 +1,26 @@
+miss:
+fail to hit.
+mission:
+important offical job.
+mist:
+with a lot of mist.
+baffel:
+confuse.
+bail:
+money that someone agrees to pay.
+amenity:
+feature that makes a place pleasant.
+also:
+in addition to.
+ammonia:
+a gass with strong smell.
+post:
+job.
+posterity: future generation.
+this:
+the person or thing near by.
+wealth:
+large amount of money.
+yuck:
+used to express disgust.
+zoo:recreational place.
